@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "testGit", "testGit\testGit.vcxproj", "{DB0F50D6-10E1-4D26-BCAD-1DCA062452ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB0F50D6-10E1-4D26-BCAD-1DCA062452ED}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DB0F50D6-10E1-4D26-BCAD-1DCA062452ED}.Debug|Win32.Build.0 = Debug|Win32
+		{DB0F50D6-10E1-4D26-BCAD-1DCA062452ED}.Release|Win32.ActiveCfg = Release|Win32
+		{DB0F50D6-10E1-4D26-BCAD-1DCA062452ED}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
